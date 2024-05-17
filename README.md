@@ -15,7 +15,7 @@ This is a solution to the [Interactive rating component challenge on Frontend Me
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [here](https://www.frontendmentor.io/solutions/interactive-rating-component-scss-grid-and-vanilla-javascript-mFvSBla4Qq)
 - Live Site URL: [here](https://ughvop.github.io/interactive-rating-component/)
 
 ## My process
