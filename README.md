@@ -16,7 +16,7 @@ This is a solution to the [Interactive rating component challenge on Frontend Me
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [here](https://ughvop.github.io/interactive-rating-component/)
 
 ## My process
 
